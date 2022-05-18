@@ -5,3 +5,4 @@ Santificados sean tus commits.
 Venga a nosotros tu log.
 Hágase reflog como en el Pentium.
 Blabla.
+Otra.
